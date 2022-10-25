@@ -39,6 +39,34 @@ Instruction Set:
 
 Instruction Format:
 
+A) Memory Access Instructions:
+
+![2022-10-25 (3)](https://user-images.githubusercontent.com/76448256/197834751-0e831a15-ec1c-4342-bc3d-72695c07e812.png)
+
+B) Data Processing Instructions:
+
+![2022-10-25 (4)](https://user-images.githubusercontent.com/76448256/197835448-1e604e1e-f659-4022-8ca0-730c787dae23.png)
+
+C) Control Flow - Branch instructions:
+
+![2022-10-25 (3)](https://user-images.githubusercontent.com/76448256/197835556-7527a05a-1450-4dbf-80e5-24bbd9974d5c.png)
+
+D) Control Flow - Jump Instruction:
+
+![2022-10-25 (5)](https://user-images.githubusercontent.com/76448256/197835721-94229431-f811-4fb8-981b-f868c51a790e.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
            
