@@ -55,9 +55,14 @@ D) Control Flow - Jump Instruction:
 
 ![2022-10-25 (5)](https://user-images.githubusercontent.com/76448256/197835721-94229431-f811-4fb8-981b-f868c51a790e.png)
 
+Opcode (bin):
+
 ![2022-10-25 (7)](https://user-images.githubusercontent.com/76448256/197838690-641a73f5-054d-498f-878c-741d83146bb2.png)
 
 ALU Control Unit:
+
+![2022-10-25 (10)](https://user-images.githubusercontent.com/76448256/197851376-d002dff2-5d78-4b67-be64-b939341d2e31.png)
+
 
 
 
