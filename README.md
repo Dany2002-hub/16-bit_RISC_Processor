@@ -63,20 +63,6 @@ ALU Control Unit:
 
 ![2022-10-25 (10)](https://user-images.githubusercontent.com/76448256/197851376-d002dff2-5d78-4b67-be64-b939341d2e31.png)
 
+RISC Processor Control Unit:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-           
+![2022-10-26 (2)](https://user-images.githubusercontent.com/76448256/197855807-8ee628f8-9b5e-46b6-bfdf-d2db9f1181f4.png)
