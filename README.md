@@ -55,6 +55,9 @@ D) Control Flow - Jump Instruction:
 
 ![2022-10-25 (5)](https://user-images.githubusercontent.com/76448256/197835721-94229431-f811-4fb8-981b-f868c51a790e.png)
 
+![2022-10-25 (7)](https://user-images.githubusercontent.com/76448256/197838690-641a73f5-054d-498f-878c-741d83146bb2.png)
+
+ALU Control Unit:
 
 
 
